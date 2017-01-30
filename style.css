@@ -7,7 +7,7 @@ body {
     color: orange;
     text-decoration: none; }
     body a:hover {
-      color: white; }
+      color: black; }
   body .content {
     background: url("College.jpg") no-repeat top right;
     height: 1398px;
